@@ -45,4 +45,4 @@
 
   Email Adress: [luismvela1@gmail.com](luismvela1@gmail.com)
 
-  Deployed App Link ( https://mighty-falls-38852.herokuapp.com/)
+  Deployed App Link (https://mighty-falls-38852.herokuapp.com/)
